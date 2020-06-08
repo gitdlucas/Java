@@ -1,0 +1,18 @@
+{
+    "name": "helloworld",
+    "version": "1.0.0",
+    "description": "Aula sobre criação de rota com NodeJs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gitdlucas/IGTI/tree/master/Full_Stack_JavaScript/Modulo2/Aula2.2/HelloWorld"
+    },
+    "author": "Daniel Lucas",
+    "license": "ISC",
+    "dependencies": {
+        "Express": "^3.0.1"
+    }
+}
